@@ -1,0 +1,20 @@
+{
+  "name": "hospital_data",
+  "version": "1.0.0",
+  "description": "perform crud operation in hospital data ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "sandra_k",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
